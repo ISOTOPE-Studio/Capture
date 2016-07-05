@@ -5,3 +5,12 @@ author: Mars
 description: Capture
 website: http://isotopestudio.cc
 version: 1.0.0
+commands:
+  capture:
+    description: Capture command
+    usage: /<command> - Get Information
+    aliases: zhandi
+  capturea:
+    description: Capture command
+    usage: /<command> - Get Information
+    aliases: zhandia
