@@ -1,0 +1,7 @@
+name: Capture
+main: cc.isotopestudio.Capture.Capture
+
+author: Mars
+description: Capture
+website: http://isotopestudio.cc
+version: 1.0.0
